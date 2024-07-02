@@ -103,6 +103,7 @@ body{
     align-items: center;
     order: 1;
     font-size: 2rem;
+    z-index: -2;
 }
 .logo img{
     margin: 2rem;
